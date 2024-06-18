@@ -12,9 +12,8 @@
 ## Install
 ```console
 # Update packages
-sudo apt-get update
-sudo apt-get upgrade -y
-sudo apt-get install -y curl
+sudo apt-get update && sudo apt-get upgrade -y
+sudo apt-get install curl -y
 
 # Download Binaries
 curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/install_aligned.sh | bash
