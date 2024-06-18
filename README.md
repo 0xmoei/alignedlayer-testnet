@@ -54,6 +54,6 @@ aligned verify-proof-onchain \
 ![Screenshot_1](https://github.com/0xmoei/alignedlayer-testnet/assets/90371338/42d31743-b464-45c5-a02e-aed31f6dbd75)
 
 
-> Now post your verify-proof screenshot + explorer link in Twitter and tag @alignedlayer
+> Now post your submit-proof screenshot + output link in Twitter and tag @alignedlayer
 >
 > Enough for now, but we will follow the future opportunities to contribute to AlignedLayer
